@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=W-acj5qVz8I">
-    <img src="https://img.youtube.com/vi/W-acj5qVz8I/0.jpg" alt="Watch the demo" width="600">
+    <img src="https://github.com/Nikhil-Dadhich/DevCursor/blob/main/DevCursor.jpg" alt="Watch the demo" width="600">
   </a>
 </p>
 
