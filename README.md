@@ -1,7 +1,6 @@
-# DevCursor
-# 🖱️ CodeCursor – AI-Powered Terminal Agent
+# 🖱️ DevCursor – AI-Powered Terminal Agent
 
-**CodeCursor** is a terminal-based intelligent agent that operates like a smart cursor. It plans, acts, observes, and responds using structured reasoning cycles. It can generate code files, execute commands, edit content, and even check the weather – all through simple natural language instructions.
+**DevCursor** is a terminal-based intelligent agent that operates like a smart cursor. It plans, acts, observes, and responds using structured reasoning cycles. It can generate code files, execute commands, edit content, and even check the weather – all through simple natural language instructions.
 
 ---
 
@@ -43,8 +42,8 @@
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/codecursor.git
-   cd codecursor
+   https://github.com/Nikhil-Dadhich/DevCursor.git
+   cd DevCursor
    ```
 
 2. **Install Dependencies**
